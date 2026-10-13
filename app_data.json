@@ -1104,7 +1104,6 @@
                                              "https://raw.githubusercontent.com/belquassehcar/sololeveling/main/categories/goku/K20.gif",
                                              "https://raw.githubusercontent.com/belquassehcar/sololeveling/main/categories/goku/K21.gif",
                                              "https://raw.githubusercontent.com/belquassehcar/sololeveling/main/categories/goku/K22.gif"
-                               
                                          ]
                        },
                        {
@@ -1788,11 +1787,11 @@
                                               "https://raw.githubusercontent.com/belquassehcar/sololeveling/main/categories/goku/K15.jpg",
                                               "https://raw.githubusercontent.com/belquassehcar/sololeveling/main/categories/goku/K16.jpg",
                                               "https://raw.githubusercontent.com/belquassehcar/sololeveling/main/categories/goku/K17.jpg",
-                                             "https://raw.githubusercontent.com/belquassehcar/sololeveling/main/categories/goku/K18.gif",
-                                             "https://raw.githubusercontent.com/belquassehcar/sololeveling/main/categories/goku/K19.gif",
-                                             "https://raw.githubusercontent.com/belquassehcar/sololeveling/main/categories/goku/K20.gif",
-                                             "https://raw.githubusercontent.com/belquassehcar/sololeveling/main/categories/goku/K21.gif",
-                                             "https://raw.githubusercontent.com/belquassehcar/sololeveling/main/categories/goku/K22.gif",
+                                              "https://raw.githubusercontent.com/belquassehcar/sololeveling/main/categories/goku/K18.gif",
+                                              "https://raw.githubusercontent.com/belquassehcar/sololeveling/main/categories/goku/K19.gif",
+                                              "https://raw.githubusercontent.com/belquassehcar/sololeveling/main/categories/goku/K20.gif",
+                                              "https://raw.githubusercontent.com/belquassehcar/sololeveling/main/categories/goku/K21.gif",
+                                              "https://raw.githubusercontent.com/belquassehcar/sololeveling/main/categories/goku/K22.gif",
                                               "https://raw.githubusercontent.com/belquassehcar/sololeveling/main/categories/attackontitans/K1.gif",
                                               "https://raw.githubusercontent.com/belquassehcar/sololeveling/main/categories/attackontitans/K1.jpg",
                                               "https://raw.githubusercontent.com/belquassehcar/sololeveling/main/categories/attackontitans/K2.gif",
@@ -1990,6 +1989,11 @@
                        }
                    ],
     "keyboards":  [
+                      "https://raw.githubusercontent.com/belquassehcar/sololeveling/main/categories/goku/K22.gif",
+                      "https://raw.githubusercontent.com/belquassehcar/sololeveling/main/categories/goku/K21.gif",
+                      "https://raw.githubusercontent.com/belquassehcar/sololeveling/main/categories/goku/K20.gif",
+                      "https://raw.githubusercontent.com/belquassehcar/sololeveling/main/categories/goku/K19.gif",
+                      "https://raw.githubusercontent.com/belquassehcar/sololeveling/main/categories/goku/K18.gif",
                       "https://raw.githubusercontent.com/belquassehcar/sololeveling/main/categories/sololeveling/K1.jpg",
                       "https://raw.githubusercontent.com/belquassehcar/sololeveling/main/categories/sololeveling/K2.jpg",
                       "https://raw.githubusercontent.com/belquassehcar/sololeveling/main/categories/sololeveling/K3.jpg",
@@ -2551,19 +2555,4 @@
                                      "https://raw.githubusercontent.com/belquassehcar/sololeveling/main/categories/sololeveling/W4.jpg",
                                      "https://raw.githubusercontent.com/belquassehcar/sololeveling/main/categories/sololeveling/W5.jpg"
                                  ],
-                    "clock":  [
-                                  "https://raw.githubusercontent.com/belquassehcar/sololeveling/main/categories/sololeveling/W6.jpg",
-                                  "https://raw.githubusercontent.com/belquassehcar/sololeveling/main/categories/sololeveling/W7.jpg",
-                                  "https://raw.githubusercontent.com/belquassehcar/sololeveling/main/categories/sololeveling/W8.jpg",
-                                  "https://raw.githubusercontent.com/belquassehcar/sololeveling/main/categories/sololeveling/W9.jpg",
-                                  "https://raw.githubusercontent.com/belquassehcar/sololeveling/main/categories/sololeveling/W10.jpg"
-                              ],
-                    "digital_clock":  [
-                                          "https://raw.githubusercontent.com/belquassehcar/sololeveling/main/categories/sololeveling/W11.jpg",
-                                          "https://raw.githubusercontent.com/belquassehcar/sololeveling/main/categories/sololeveling/W12.jpg",
-                                          "https://raw.githubusercontent.com/belquassehcar/sololeveling/main/categories/sololeveling/W13.png",
-                                          "https://raw.githubusercontent.com/belquassehcar/sololeveling/main/categories/sololeveling/W14.png",
-                                          "https://raw.githubusercontent.com/belquassehcar/sololeveling/main/categories/sololeveling/W15.png"
-                                      ]
-                }
-}
+ 
